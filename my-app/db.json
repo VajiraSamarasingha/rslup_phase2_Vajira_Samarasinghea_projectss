@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "adminVajira",
+      "password": "Vajira123@#$",
+      "email": "vajira54@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "admin2",
+      "name": "adminVajira",
+      "password": "Vajira123@#$",
+      "email": "vajira54@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "admin3",
+      "name": "adminVajira",
+      "password": "Vajira123@#$",
+      "email": "vajira54@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "admin4",
+      "name": "adminVajira",
+      "password": "Vajira123@#$",
+      "email": "vajira54@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    }
+  ],
+  "role": [
+    {
+      "code":"user/agent",
+      "name":"User/Agent"
+    },
+    {
+      "code":"admin",
+      "name":"Admin"
+    },
+    {
+      "code":"passenger",
+      "name":"Passenger"
+    }
+  ]
+}
