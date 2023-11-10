@@ -39,7 +39,7 @@ export class UpdatepopupComponent implements OnInit{
     isactive: this.builder.control(false)
   });
   
-
+  //method for updateuser
   updateuser(){
     if(this.registerform.valid){
       this.service.Updateuser(this.registerform.value.id,this.registerform.value).subscribe(res => {
