@@ -35,21 +35,38 @@
       "gender": "male",
       "role": "",
       "isactive": false
+    },
+    {
+      "id": "vajira samarasingha",
+      "name": "vajira samarasingha",
+      "password": "Vajira4321@#$",
+      "email": "vajira7687@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "vajira Kamarasingha",
+      "name": "vajira samarasingha",
+      "password": "Vajira757821@#$",
+      "email": "vajira7687@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
     }
   ],
-  
   "role": [
     {
-      "code":"user/agent",
-      "name":"User/Agent"
+      "code": "user/agent",
+      "name": "User/Agent"
     },
     {
-      "code":"admin",
-      "name":"Admin"
+      "code": "admin",
+      "name": "Admin"
     },
     {
-      "code":"passenger",
-      "name":"Passenger"
+      "code": "passenger",
+      "name": "Passenger"
     }
   ]
 }
